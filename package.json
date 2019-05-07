@@ -1,0 +1,7 @@
+{
+  "name": "crawler",
+  "version": "1.0.0", //name, version은 빠지면 안됨
+  "dependencies": {
+    "puppeteer": "= 1.2.0"
+  }
+}
